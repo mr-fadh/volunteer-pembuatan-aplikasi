@@ -7,4 +7,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
-* Gilang Ramadhan, [Github](https://github.com/YagitaOlyrd/).
+* Yagita Olyrd, [Github](https://github.com/YagitaOlyrd/).
